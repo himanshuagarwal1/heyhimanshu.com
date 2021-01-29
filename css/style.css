@@ -5,6 +5,13 @@
  * URL: https://freehtml5.co
  */
 /* Fonts */
+  /*
+ * Author by FreeHTML5.co
+ * Twitter: https://twitter.com/fh5co
+ * Facebook: https://fb.com/fh5co
+ * URL: https://freehtml5.co
+ */
+/* Fonts */
 @font-face {
   font-family: 'Calisto-MT';
   src: url(../fonts/Calisto-MT.ttf); }
@@ -769,6 +776,24 @@
   @media (max-width: 1250px) {
     .site-footer {
       padding-top: 60px; } }
+.posts{
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.posts h5{
+  padding-top: 10px;
+  font-family: Helvetica,sans-serif;
+  font-size: 20px;
+  padding-left: 30px;
+}
+.posts a{
+  padding-top: 10px;
+  font-family: Helvetica,sans-serif;
+  font-size: 20px;
+  padding-left: 30px;
+
+}
 
 .footer-inner {
   display: flex;
@@ -888,3 +913,4 @@
       .footer-bottom-inner p {
         font-size: 14px;
         margin-bottom: 20px; } }
+
