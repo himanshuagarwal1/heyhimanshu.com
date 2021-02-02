@@ -774,11 +774,19 @@
   padding-right: 25%;
 }
 
-.posts h5{
+.posts a{
   
   font-family: Helvetica,sans-serif;
-  font-size: 20px;
+  color: #000;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
   
+}
+
+.posts a:hover{
+  text-decoration: underline;
+  color: #1565c0;
 }
 .posts h6{
   padding-top: 10px;
@@ -796,7 +804,7 @@
 }
 
 .footer-area {
-  margin-top:150px;
+  margin-top: 150px;
   position: relative;
   z-index: 1; }
   .footer-area .footer-logo {
