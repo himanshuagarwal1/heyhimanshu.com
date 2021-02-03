@@ -784,10 +784,7 @@
   
 }
 
-.posts a:hover{
-  text-decoration: underline;
-  color: #1565c0;
-}
+
 .posts h6{
   padding-top: 10px;
   font-family: Helvetica,sans-serif;
